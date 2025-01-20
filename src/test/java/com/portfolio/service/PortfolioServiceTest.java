@@ -5,6 +5,7 @@ import com.portfolio.domain.Portfolio;
 import com.portfolio.domain.StockHolding;
 import com.portfolio.dto.PortfolioDTO;
 import com.portfolio.dto.StockHoldingDTO;
+import com.portfolio.dto.UserDTO;
 import com.portfolio.exception.ResourceNotFoundException;
 import com.portfolio.repository.PortfolioRepository;
 import com.portfolio.repository.StockHoldingRepository;
